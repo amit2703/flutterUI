@@ -100,25 +100,25 @@ class _MyMainPageState extends State<MyMainPage> with SingleTickerProviderStateM
               isScrollable: true,
               tabs: <Widget>[
                 Tab(
-                  child: Text("Fruits", style: TextStyle(
+                  child: Text("Lego", style: TextStyle(
                     fontSize: 2.5 * SizeConfig.textMultiplier,
                     fontFamily: 'OpenSans'
                   ),),
                 ),
                 Tab(
-                  child: Text("Vegetables", style: TextStyle(
+                  child: Text("Georgia", style: TextStyle(
                       fontSize: 2.5 * SizeConfig.textMultiplier,
                       fontFamily: 'OpenSans'
                   ),),
                 ),
                 Tab(
-                  child: Text("Nuts & Seeds", style: TextStyle(
+                  child: Text("Uncle's cafe", style: TextStyle(
                       fontSize: 2.5 * SizeConfig.textMultiplier,
                       fontFamily: 'OpenSans'
                   ),),
                 ),
                 Tab(
-                  child: Text("Dairy", style: TextStyle(
+                  child: Text("More Than Cafe", style: TextStyle(
                       fontSize: 2.5 * SizeConfig.textMultiplier,
                       fontFamily: 'OpenSans'
                   ),),

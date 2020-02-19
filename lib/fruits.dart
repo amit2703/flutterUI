@@ -51,7 +51,7 @@ class _FruitsState extends State<Fruits> {
                   children: <Widget>[
                     Column(
                       children: <Widget>[
-                        _buildFruitCard("Kiwi", "assets/kiwi.png","₹90", 0xffF7DFB9, 0XffFAF0DA),
+                        _buildFruitCard("Paneer Roll", "assets/kiwi.png","₹90", 0xffF7DFB9, 0XffFAF0DA),
                         SizedBox(height: 2 * SizeConfig.heightMultiplier,),
                         GestureDetector(
                           onTap: (){
